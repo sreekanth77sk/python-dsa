@@ -1,5 +1,7 @@
 We will have git commands here, for future refernce.
 
+let's see what happens
+
 git status
 git add 'fine name'
 git commit -m 'message'
